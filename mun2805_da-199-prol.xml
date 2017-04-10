@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Expositio librorum I-III De anima</title>
+        <author>Aegidius Romanus</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="2017.03">
+          <title><!-- title [{ms-identifier} Transcription] --></title>
+          <date when="2017-03-20">March 20, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives
+            on the Aristotelian Tradition
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+        <date when="2017-03-20">March 20, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="mun">München, Bayerische Staatsbibliothek, 2 Inc. c.a. 2805</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef
+          n="lbp-diplomatic-1.0.0"
+          url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/diplomatic.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition</p>
+        <p>The transcription has been normalized to classical orthography.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-03-20" who="#" status="draft" n="2017.03">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la" type="critical">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="3-r"/><cb ed="#M" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-199-prol">
+        <head>Prologus</head>
+        <p xml:id="da-199-prol-1xsdxd">
+          <lb ed="#M"/> Fidi interpretis Aristotelis Aegidii romani heremitarum
+          <lb ed="#M"/> ordinis in libros de anima expositio<pc type="punctus"/>
+        </p>
+        <p xml:id="da-199-prol-a8bpw5">
+          <lb ed="#M"/> Ex romanorum
+          <lb ed="#M"/> spectabili ac illustri prosa<lb ed="#M"/>pia
+          oriundo sibi quam plurimum dile<lb ed="#M"/>cto
+          domino Iacobo<pc type="punctus-elevatus"/> domini Joan<lb ed="#M"/>nis
+          gagethani rothomagen<lb ed="#M"/>si
+          canonica Frater aegidius
+          <lb ed="#M"/> romanus ordinis fratrum
+          <lb ed="#M"/> heremitarum sancti Augu<lb ed="#M"/>stini
+          seipsum ac promptam ad
+          <lb ed="#M"/> sua beneplacita voluntatem<pc type="punctus"/>
+          <lb ed="#M"/> Dum intra me tacitus cogitarem
+          <lb ed="#M"/> quid vere generositati erga
+          <lb ed="#M"/> quam tanta dilectione afficiorum
+          <lb ed="#M"/> muneris offerre valerem circumspecto numero ingenio<pc type="punctus-elevatus"/> et considera<lb ed="#M"/>ta
+          vestra industria naturali decrevi nihil per me posse vobis trans<lb ed="#M"/>mitti
+          decentius<pc type="punctus-elevatus"/> nihil destinari utilius<pc type="punctus-elevatus"/> quam exponere libri de anima<pc type="punctus-elevatus"/>
+          <lb ed="#M"/> cuius cognitio ad omnem veritatem videtur proficere<pc type="punctus-elevatus"/> et maxime ad
+          <lb ed="#M"/> naturalem<pc type="punctus-elevatus"/> ad quam capessendam tanto videtur intellectus super communem mo<lb ed="#M"/>dum
+          hominum esse dispositus<pc type="punctus-elevatus"/> quanto deus altissimus prae multis aliis perso<lb ed="#M"/>nam
+          veram nobilioribus naturalibus perornavit<pc type="punctus"/> Suscipite ergo dilecte
+          <lb ed="#M"/> carissime destinatum donum animo laetabundo<pc type="punctus-elevatus"/> quod tanto magis
+          <lb ed="#M"/> rationem doni participat<pc type="punctus"/> et tanto magis se esse placitum probat<pc type="punctus"/> nec<lb ed="#M"/>non
+          et tanto maiorem meam caritatem et sollicitudinem erga vestram
+          <lb ed="#M"/> nobilitatem arguit et ostendit<pc type="punctus-elevatus"/> quanto postulationi praeveniens
+          <lb ed="#M"/> oblatum esse dignoscitur potius quam petitum.
+        </p>
+        <p xml:id="da-199-prol-85745i">
+          <lb ed="#M"/> Philosophus in secundo physicorum volens investiga<lb ed="#M"/>re
+          terminos et limites con<lb ed="#M"/>siderationis
+          philosophi naturalis ait<pc type="punctus"/> usquequo physicum oportet co<lb ed="#M"/>gnoscere
+          speciem<pc type="punctus-elevatus"/> et quod quid est id est usque ad quem termi<lb ed="#M"/>num
+          potest se extendere consideratio physica<pc type="punctus-elevatus"/> sive consi<lb ed="#M"/>deratio
+          philosophi naturalis quam habet de speciebus id est de formis quae sunt<pc type="punctus-elevatus"/> quod quid est
+          <lb ed="#M"/> id est quae principaliter pertinent ad rationem quiditatis<pc type="punctus"/> huic autem quaestioni et in<lb ed="#M"/>quisitioni
+          respondet idem philosophus ibidem dicens<pc type="punctus-elevatus"/> quod sic oportet considerare
+          <lb ed="#M"/> physicum formam speciem<pc type="punctus-elevatus"/> et quod quid est<pc type="punctus-elevatus"/> quemadmodum oportet medicum con<lb ed="#M"/>siderare
+          nervum<pc type="punctus-elevatus"/> et fabrum aes<pc type="punctus"/> non enim omnis consideratio nervi spe<lb ed="#M"/>ctat
+          ad medicum<pc type="punctus-elevatus"/> neque quicquid potest considerari de aere pertinet ad
+          <lb ed="#M"/> fabrum<pc type="punctus-elevatus"/> nec omnis consideratio de formis spectat ad philosophum naturalem<pc type="punctus"/>
+          <lb ed="#M"/> quare si videre volumus qualiter praefati artifices considerant de
+          <lb ed="#M"/> praedictis<pc type="punctus-elevatus"/> videndum est qualis sit consideratio medici fabri et physi<lb ed="#M"/>ci
+          <pc type="punctus-elevatus"/> medicus quidem si considerat de nervo<pc type="punctus-elevatus"/> hoc est inquantum in eo vult
+          <lb ed="#M"/> inducere sanitatem<pc type="punctus"/> omnis igitur illa consideratio quae sanitati deservit
+          <lb ed="#M"/> et quae ordinatur ut sanetur nervus secundum quod huiusmodi est<pc type="punctus-elevatus"/> spectat ad medicum<pc type="punctus"/>
+          <lb ed="#M"/> si autem sit aliqua consideratio nervi hanc transcendens<pc type="punctus-elevatus"/> subterfuge<lb ed="#M"/>re
+          potest considerationem medici<pc type="punctus-elevatus"/> sic quia faber considerat de aere<pc type="punctus-elevatus"/> ut
+          <lb ed="#M"/> ex eo possit artificialia construere<pc type="punctus-elevatus"/> consideratio aeris ut ordina<lb ed="#M"/>tur
+          ad opus vasorum aeneorum vel aliorum artificialium quae construun<lb ed="#M"/>tur
+          ex aere<pc type="punctus-elevatus"/> spectare potest ad fabrum aerarium<pc type="punctus-elevatus"/> sed si sit aliquam conside<lb ed="#M"/>ratio
+          aeris hanc considerationem transcendens subterfugit conside<lb ed="#M"/>rationem
+          eius<pc type="punctus"/> Ex hoc ergo patere potest quae sit consideratio naturalis<pc type="punctus-elevatus"/> et usque
+          <lb ed="#M"/> quo se extendit consideratio eius quam habet de formis<pc type="punctus"/> nam naturalis
+          <lb ed="#M"/> philosophus quicquid considerat est aliquod modo motui et transmutationi
+          <lb ed="#M"/> coniunctum<pc type="punctus-elevatus"/> quia ut dicitur secundo physicorum quae non amplius mota movent non am<lb ed="#M"/>plius
+          sunt physicae considerationis<pc type="punctus"/> formae ergo omnino immateriales non
+          <lb ed="#M"/> coniunctae materiae substantiae transmutationi et motui sed substantiam non sunt
+          <lb ed="#M"/> de consideratione physici<pc type="punctus"/> Itaque tamdiu se extendit consideratio
+          <lb ed="#M"/> physica erga formas donec perveniat ad formam illam quae aliquo
+          <lb ed="#M"/> modo est immaterialis<pc type="punctus-elevatus"/> et aliquo modo est perfectio materiae<pc type="punctus"/> ibi autem erit sta<lb ed="#M"/>tus
+          et perfectus terminus considerationis physicae<pc type="punctus"/> quicquid autem est
+          <lb ed="#M"/> ultra formam illam considerare secundum substantiam non ulterius pertinet ad
+          <lb ed="#M"/> naturalem philosophum<pc type="punctus"/> forma autem ultima secundum considerationem philosophi ultra quam
+          <lb ed="#M"/> non se extendit philosophus naturalis<pc type="punctus"/> ut ait commentator secundo physicorum est anima hu<lb ed="#M"/>mana
+          <pc type="punctus"/> Possumus igitur sic distinguere de formis<pc type="punctus"/> dicendo quas<lb ed="#M"/>dam
+          esse omnino materiales cuiusmodi sunt formae eductae de potentiae
+          <cb ed="#M" n="b"/>
+          <lb ed="#M"/> materiae<pc type="punctus-elevatus"/> tam secundum substantiam quam secundum dispositionem<pc type="punctus"/> Quaedam vero sunt quasi pe<lb ed="#M"/>nitus
+          immateriales ut intelligentiae quae secundum philosophum octo metaphysicae sunt en<lb ed="#M"/>tes
+          praeter omnem materiam sensibilem et intelligibilem<pc type="punctus"/> Quaedam autem sunt
+          <lb ed="#M"/> formae mediae<pc type="punctus-elevatus"/> ut animae humanae quae sunt perfectiones corporum<pc type="punctus"/> habent
+          <lb ed="#M"/> enim se huiusmodi animae quasi modo medio<pc type="punctus-elevatus"/> quia licet secundum substantiam non educantur<pc type="punctus"/>
+          <lb ed="#M"/> de potentia materiae<pc type="punctus-elevatus"/> tamen secundum dispositionem de materia sunt eductae<pc type="punctus"/> Incipit <!-- Extensive note in margin. Looks like added text -->
+          <lb ed="#M"/> itaque consideratio philosophi naturalis a formis penitus materialibus et ter<lb ed="#M"/>minatur
+          usque ad animam humanam<pc type="punctus"/> quae est quodammodo materialis<pc type="punctus-elevatus"/> et quo<lb ed="#M"/>dammodo
+          immaterialis<pc type="punctus-elevatus"/> sed cum perventum est ad talem animam sistit philosophus nec se
+          <lb ed="#M"/> extendit ad ulteriores formas<pc type="punctus-elevatus"/> quia de formis abstractis<pc type="punctus-elevatus"/>
+          <lb ed="#M"/> cuiusmodi sunt intelligentiae<pc type="punctus-elevatus"/> eo quod non motae moveant<pc type="punctus-elevatus"/> non
+          <lb ed="#M"/> ulterius considerat philosophus naturalis<pc type="punctus"/>
+        </p>
+        <p xml:id="da-199-prol-h639m4">
+          <lb ed="#M"/> Hoc viso patere potest quem ordinem habeat hoc liber qui
+          <lb ed="#M"/> dicitur de anima quem habemus prae manibus inter alios
+          <lb ed="#M"/> libros naturales<pc type="punctus"/> nam modus physicus et metaphysicus quodam<lb ed="#M"/>modo
+          videtur oppositus<pc type="punctus"/> eo quod modus physicus et naturalis quasi habet
+          <lb ed="#M"/> statum in supremo et non in infimo<pc type="punctus"/> habet enim statum secundum abstractio<lb ed="#M"/>nem
+          quid est supremus<pc type="punctus-elevatus"/> et non secundum concretionem quid est infimus<pc type="punctus"/> nulla
+          <lb ed="#M"/> enim est consideratio adeo concreta<pc type="punctus-elevatus"/> et adeo coniuncta materiae et trans<lb ed="#M"/>mutationi
+          et motui quae propter hoc<pc type="punctus"/> et secundum quod huiusmodi subterfugiat modum
+          <lb ed="#M"/> physici<pc type="punctus-elevatus"/> est tamen aliqua consideratio adeo abstracta et adeo supre<lb ed="#M"/>ma
+          quae non spectat ad naturalem<pc type="punctus"/> et ad quam physicus non se potest exten<lb ed="#M"/>dere
+          <pc type="punctus"/> scientia vero metaphysica et divina modo converso se habet<pc type="punctus"/> nam non
+          <lb ed="#M"/> habet terminum in abstracto et in supremo sic quod sit aliqua conside<lb ed="#M"/>ratio
+          adeo abstracta et excellens quae trasncendat considerationem
+          <lb ed="#M"/> metaphysicam et divinam<pc type="punctus-elevatus"/> quia quanto consideratio est alitor<pc type="punctus"/> tanto ma<lb ed="#M"/>gis
+          est metaphysicalis<pc type="punctus-elevatus"/> eo quod metaphysica considerat causas
+          <lb ed="#M"/> altissimas<pc type="punctus-elevatus"/> ut dicitur secundo metaphysicae<pc type="punctus-elevatus"/> habet tamen modus metaphysi<lb ed="#M"/>cus
+          statum in infimo<pc type="punctus"/> quia est aliqua consideratio adeo concreta et con<lb ed="#M"/>tracta
+          quae non pertinet ad metaphysicum<pc type="punctus-elevatus"/> quid est artifex commmunis<pc type="punctus-elevatus"/> licet perti<lb ed="#M"/>nere
+          possit ad phsicum quid est artifex specialis.
+        </p>
+        <p xml:id="da-199-prol-3tczsn">
+          Advertendum
+          <lb ed="#M"/> tamen quod cum dicimus metaphysicum non habere statum in supremo<pc type="punctus-elevatus"/> quia
+          <lb ed="#M"/> non potest esse consideratio ita alta quae non spectet ad ipsum intelligendo
+          <lb ed="#M"/> de consideratione habita per humanam inventionem.
+        </p>
+        <p xml:id="da-199-prol-pg4c1r">
+          Utrum autem sit
+          <lb ed="#M"/> aliqua consideratio inspirata trancendens considerationem metaphy<lb ed="#M"/>sicam
+          non est praesentis speculationis<pc type="punctus"/> sec <unclear>etiam</unclear> cum dicimus physicum non ha<lb ed="#M"/>bere
+          statum in infimo sic quod sit aliqua consideratio adeo concreta quae
+          <lb ed="#M"/> secundum quod huiusmodi subterfugiat considerationem physicam<pc type="punctus-elevatus"/> intelli<lb ed="#M"/>gendum
+          est hoc supposita abstractione<pc type="punctus-elevatus"/> quam requirit quaelibet scientia<pc type="punctus"/> nam si
+          <lb ed="#M"/> sic concretam et materialem considerationem habere vellemus<pc type="punctus-elevatus"/> ut ad ipsa
+          <lb ed="#M"/> individua et singualria extenderemus eam<pc type="punctus-elevatus"/> patet quod de talibus non con<lb ed="#M"/>siderat
+          phsicus<pc type="punctus-elevatus"/> eo quod nulla scientia circa individua et numero sin<lb ed="#M"/>gularia
+          est<pc type="punctus"/> quia talium<pc type="punctus-elevatus"/> ut dicitur septimo metaphysicae<pc type="punctus"/> non est scientia nec dif<lb ed="#M"/>finitio
+          <pc type="punctus-elevatus"/> igitur hoc modo sunt intelligenda quae diximus<pc type="punctus-elevatus"/> quod cum tres sint
+          <lb ed="#M"/> modi essentiales philosophiae<pc type="punctus"/> physicus scilicet metaphysicus et divinus<pc type="punctus"/>
+          <lb ed="#M"/> divinus et metaphysicus modus inter scientias humanitas in<lb ed="#M"/>ventas
+          non recognoscit superiorem artificem nec habet statum in supre<lb ed="#M"/>mo
+          <pc type="punctus-elevatus"/> ita quod terminetur consideratio eius ad considerationem ar<lb ed="#M"/>tificis
+          superioris<pc type="punctus"/> physicus vero quantum ad modum abstractionis in<lb ed="#M"/>ter
+          partes essentiales philosophiae non recognoscit artificem inferiorem<pc type="punctus-elevatus"/>
+          <lb ed="#M"/> ut quod terminetur eius consideratio ad aliquam essentialem partem
+          <lb ed="#M"/> phiosophiae quae sit magis concreta et minoris abstrationis<pc type="punctus"/> incipit
+          <lb ed="#M"/> itaque modus physicus<pc type="punctus-elevatus"/> ut patet per iam dictam<pc type="punctus-elevatus"/> a formis infimis<pc type="punctus-elevatus"/> et omnino
+          <lb ed="#M"/> materialibus et terminatur usque ad animam humanam<pc type="punctus-elevatus"/> quare si physicus
+          <lb ed="#M"/> habet statum in supremo anima humana ad quam terminatur conside<lb ed="#M"/>ratio
+          physica est dignissima et suprema inter ea quae considerat
+          <lb ed="#M"/> physicus naturalis<pc type="punctus"/> hoc ergo considerans philosophus volens commendare hunc
+          <lb ed="#M"/> librum in quo determinatur de omni anima et principaliter de anima
+          <lb ed="#M"/> humana ait<pc type="punctus"/> in primis ponendam esse notitiam de anima<pc type="punctus-elevatus"/> quod in<lb ed="#M"/>telligendum
+          est quantum ad ordinem dignitatis<pc type="punctus"/> ordine enim do<lb ed="#M"/>ctrinae
+          liber de anima non est primus inter libros naturales<pc type="punctus-elevatus"/> sed
+          <lb ed="#M"/> tenet gradum sextum<pc type="punctus-elevatus"/> et dicitur sectus de naturalibus<pc type="punctus-elevatus"/> ut prob<lb ed="#M"/>vimus
+          in nostris editionibus quas fecimus super physi<lb ed="#M"/>cis
+          <pc type="punctus"/> ordine tamen dignitatis hic est primus<pc type="punctus-elevatus"/> ut est per ha<lb ed="#M"/>bita
+          manifestum<pc type="punctus"/> his itaque visis breviter ad expositionem
+          <lb ed="#M"/> litterae accedamus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
