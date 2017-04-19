@@ -62,143 +62,181 @@
     </front>
     <body>
       <div xml:id="da-199-prol">
-        <app>
-          <rdg wit="#M"><head>Prologus</head></rdg>
-          <rdg wit="#P" type="variation-absent"/>
-        </app>
+        <head>Prologus</head>
         <p xml:id="da-199-prol-1xsdxd">
           <app>
-            <rdg wit="#M">
-              Fidi interpretis Aristotelis Aegidii romani heremitarum ordinis in
-              libros de anima expositio
-            </rdg>
+            <lem wit="#M">
+              Fidi interpretis Aristotelis Aegidii Romani heremitarum ordinis in
+              libros <title ref="#Arist.DA">De anima</title> expositio
+            </lem>
             <rdg wit="#P" type="variation-absent"/>
           </app>
+          .
           <app>
-            <rdg wit="#P">
-              Incipit sentencia super libro de anima edita a fratre Egidio
-              Romano ordinis fratrum heremitarum
-            </rdg>
+            <lem n="expositio"/>
             <rdg wit="#M" type="variation-absent"/>
+            <rdg wit="#P" type="variation-present">
+              Incipit sentencia super libro <title ref="#Arist.DA">De
+              anima</title> edita a fratre Egidio Romano ordinis fratrum
+              heremitarum
+            </rdg>
           </app>
         </p>
         <p xml:id="da-199-prol-a8bpw5">
           Ex romanorum spectabili ac illustri prosapia oriundo sibi quam
           plurimum dilecto domino Iacobo
           <app>
+            <lem>domini</lem>
             <rdg wit="#M">domini</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
-          Johannis Caietani <unclear>Rothamagensi</unclear>
-          canonica Frater Aegidius Romanus ordinis fratrum heremitarum sancti
-          Augustini seipsum
+          Johannis Caietani Rothomagensi canonica Frater Aegidius Romanus
+          ordinis fratrum heremitarum sancti Augustini seipsum
           <app>
+            <lem>ac</lem>
             <rdg wit="#M">ac</rdg>
             <rdg wit="#P">et</rdg>
           </app>
-          promptam ad sua beneplacita voluntatem. Dum intra me tacitus cogitarem
-          quid vere generositati erga quam tanta dilectione afficiorum muneris
-          offerre valerem circumspecto numero ingenio et considerata vestra
-          industria naturali decrevi nihil per me posse vobis transmitti
-          decentius nihil destinari utilius quam expositionem libri de anima cuius
-          cognitio ad omnem veritatem videtur proficere et maxime ad
+          promptam ad sua beneplacita voluntatem.
+        </p>
+        <p xml:id="da-199-prol-sdk34l">
+          Dum intra me tacitus cogitarem quid vere generositati erga quam tanta
+          dilectione afficiorum muneris offerre valerem, circumspecto numero
+          ingenio et considerata vestra industria naturali decrevi nihil per me
+          posse vobis transmitti decentius nihil destinari utilius quam
+          expositionem libri <title ref="#Arist.DA">De anima</title> cuius
+          cognitio ad omnem veritatem videtur proficere, et maxime ad
           <app>
+            <!-- M -->
+            <lem>naturalem</lem>
             <rdg wit="#M">naturalem</rdg>
-            <rdg wit="#P"><unclear>naturam</unclear></rdg>
+            <rdg wit="#P">naturam</rdg>
           </app>
           ad quam capessendam tanto
           <app>
-            <rdg wit="#M">videtur</rdg>
+            <!-- P -->
+            <lem>vester</lem>
             <rdg wit="#P">vester</rdg>
+            <rdg wit="#M">videtur</rdg>
           </app>
           intellectus
           <app>
+            <lem>super</lem>
             <rdg wit="#M">super</rdg>
             <rdg wit="#P">supra</rdg>
           </app>
           communem modum hominum
           <app>
+            <lem>videtur</lem>
             <rdg wit="#P">videtur</rdg>
             <rdg wit="#M" type="variation-absent"/>
           </app>
-          esse dispositus quanto deus altissimus prae multis aliis personam
-          vestram nobilioribus naturalibus perornavit.
-        </p>
-        <p xml:id="da-199-prol-rtij6t">
-          Suscipite ergo dilecte
+          esse dispositus quanto Deus altissimus prae multis aliis personam
+          vestram nobilioribus naturalibus perornavit. Suscipite ergo dilecte
+          carissime destinatum donum animo laetabundo, quod tanto magis rationem
+          doni participat et tanto magis se
           <app>
-            <rdg wit="#M">carissime</rdg>
-            <rdg wit="#P"><unclear>lrm()e</unclear></rdg>
-          </app>
-          destinatum donum animo laetabundo
-          quod tanto magis rationem doni participat et tanto magis se
-          <app>
-            <rdg wit="#P">placitum esse</rdg>
+            <lem>esse placitum</lem>
             <rdg wit="#M">esse placitum</rdg>
+            <rdg wit="#P">placitum esse</rdg>
           </app>
           probat necnon et tanto maiorem meam caritatem et
           sollicitudinem erga vestram nobilitatem arguit et ostendit quanto
           <app>
+            <lem>postulationem</lem>
             <rdg wit="#P">postulationem</rdg>
-            <rdg wit="#M">postrdgulationi</>
+            <rdg wit="#M">postulationi</rdg>
           </app>
           praeveniens oblatum esse dignoscitur potius quam petitum.
         </p>
         <p xml:id="da-199-prol-85745i">
-          Philosophus in secundo physicorum volens investigare
-          terminos et limites considerationis
-          philosophi naturalis ait usquequo
+          Philosophus in
+          <cit>
+            <ref>
+              secundo <title ref="#Arist.Ph">Physicorum</title>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Ph">Phys.</title> II.1 194b10–11.
+            </bibl>
+          </cit>
+          volens investigare terminos et limites considerationis philosophi
+          naturalis ait usquequo
           <app>
-            <rdg wit="#P">oportet physicum</rdg>
+            <lem>physicum oportet</lem>
             <rdg wit="#M">physicum oportet</rdg>
+            <rdg wit="#P">oportet physicum</rdg>
           </app>
-          cognoscere speciem et quod quid est id est usque ad quem terminum
+          cognoscere speciem et quod quid est, id est usque ad quem terminum
           potest se extendere consideratio physica sive consideratio philosophi
-          naturalis quam habet de speciebus id est de formis quae sunt
+          naturalis quam habet de speciebus, id est de formis quae sunt
           <app>
+            <!-- M -->
+            <lem>quod</lem>
             <rdg wit="#M">quod</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
-          quid est id est
+          quid est, id est
           <app>
+            <!-- M -->
+            <lem>quae</lem>
             <rdg wit="#M">quae</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
-          principaliter pertinent ad rationem quiditatis huic autem quaestioni
+          principaliter pertinent ad rationem quiditatis.
+          <cit>
+            <ref>Huic autem quaestioni
+            <app>
+              <!-- M -->
+              <lem>et</lem>
+              <rdg wit="#M">et</rdg>
+              <rdg wit="#P" type="variation-absent"/>
+            </app>
+            inquisitioni respondet
+            <app>
+              <lem n="respondet"/>
+              <rdg wit="#P" type="variation-absent"/>
+              <rdg wit="#M" type="variation-present">idem</rdg>
+            </app>
+            <app>
+              <lem>ibidem Philosophus</lem>
+              <rdg wit="#P">
+                ibidem <add place="margin-right">Philosophus</add>
+              </rdg>
+              <rdg wit="#M">Philosophus ibidem</rdg>
+            </app>
+            dicens quod
+            </ref>
+            <quote type="paraphrase">sic oportet considerare physicum formam, speciem et
+            quod quid est, quemadmodum oportet medicum considerare nervum et fabrum
+            aes
+            </quote>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Ph">Phys.</title> II.1 194b11–12.
+            </bibl>
+          </cit>
+          , non enim omnis consideratio nervi spectat ad medicum,
           <app>
-            <rdg wit="#M">et</rdg>
-            <rdg wit="#P" type="variation-absent"/>
-          </app>
-          inquisitioni respondet
-          <app>
-            <rdg wit="#M">idem</rdg>
-            <rdg wit="#P" type="variation-absent"/>
-          </app>
-          <app>
-            <rdg wit="#M">Philosophus ibidem</rdg>
-            <rdg wit="#P">
-              ibidem
-              <add place="margin-right">Philosphus</add>
-            </rdg>
-            <rdg wit="#P" type="variation-absent"/>
-          </app>
-          dicens quod sic oportet considerare physicum formam speciem et
-          quod quid est quemadmodum oportet medicum considerare nervum et fabrum
-          aes non enim omnis consideratio nervi spectat ad medicum
-          <app>
-            <rdg wit="#P">nec</rdg>
+            <lem>neque</lem>
             <rdg wit="#M">neque</rdg>
+            <rdg wit="#P">nec</rdg>
           </app>
           quicquid potest considerari de aere
           <app>
+            <lem>pertinet</lem>
+            <rdg wit="#M">pertinet</rdg>
             <rdg wit="#P">spectat</rdg>
-            <rdg wit="#M">pertinet </rdg>
           </app>
-          ad fabrum nec omnis consideratio de formis spectat ad philosophum
-          naturalem quare si videre volumus qualiter praefati artifices
-          considerant de praedictis videndum est qualis sit consideratio medici
-          fabri et physici. medicus quidem si
+          ad fabrum, nec omnis consideratio de formis spectat ad philosophum
+          naturalem, quare si videre volumus qualiter praefati artifices
+          considerant de praedictis, videndum est qualis sit consideratio medici,
+          fabri et physici.
+        </p>
+        <p xml:id="da-199-prol-lkjasd">
+          Medicus quidem si
           <app>
+            <lem>considerat</lem>
             <rdg wit="#M">considerat</rdg>
             <rdg wit="#P" type="correction-substitution">
               <subst>
@@ -208,9 +246,8 @@
               </subst>
             </rdg>
           </app>
-          considerat de nervo hoc est
-          inquantum in eo vult inducere sanitatem omnis igitur illa consideratio
-          quae sanitati deservit et quae ordinatur ut sanetur
+          de nervo, hoc est inquantum in eo vult inducere sanitatem, omnis igitur
+          illa consideratio quae sanitati deservit et quae ordinatur ut sanetur
           <app>
             <!-- superficial, in scribendo correction -->
             <lem>nervus</lem>
@@ -221,17 +258,20 @@
               </subst>
             </rdg>
           </app>
-          secundum quod huiusmodi est spectat ad medicum si autem sit aliqua
+          secundum quod huiusmodi est, spectat ad medicum. Si autem sit aliqua
           consideratio nervi
           <app>
             <!-- M better -->
+            <lem>hanc</lem>
             <rdg wit="#M">hanc</rdg>
             <rdg wit="#P">hoc</rdg>
           </app>
-          transcendens subterfugere potest considerationem medici sic
-          quia faber considerat de aere ut ex eo possit artificialia construere
-          consideratio
+          transcendens, subterfugere potest considerationem medici sic,
+          quia faber considerat de aere ut ex eo possit artificialia construere.
+          Consideratio
           <app>
+            <!-- P corrected to read M -->
+            <lem>aeris</lem>
             <rdg wit="#M">aeris</rdg>
             <rdg wit="#P" type="correction-substitution">
               <subst>
@@ -240,57 +280,79 @@
               </subst>
             </rdg>
           </app>
-          ut ordinatur ad opus vasorum aeneorum vel aliorum
+          , ut ordinatur ad opus vasorum aeneorum vel aliorum
           artificialium quae construuntur ex aere spectare potest
           <app>
+            <!-- P corrected to read M -->
+            <lem>ad</lem>
             <rdg wit="#M">ad</rdg>
             <rdg wit="#P" type="correction-addition">
               <add place="above-line">ad</add>
             </rdg>
           </app>
           <app>
+            <lem>fabrum</lem>
             <rdg wit="#M">fabrum</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
           <app>
-            <rdg wit="#M">aerarium </rdg>
+            <lem>aerarium</lem>
+            <rdg wit="#M">aerarium</rdg>
             <rdg wit="#P" type="correction-substitution">
+              <!-- Superficial. Maybe simply spelling error -->
               <subst>
                 <del>errarium</del>
                 <add>aerarium (erarium)</add>
               </subst>
             </rdg>
           </app>
-          sed si sit aliquam consideratio aeris hanc considerationem
-          transcendens subterfugit considerationem eius Ex hoc ergo patere
+          , sed si sit aliquam consideratio aeris hanc considerationem
+          transcendens, subterfugit considerationem eius. Ex hoc ergo patere
           potest
           <app>
+            <lem>quae</lem>
             <rdg wit="#M">quae</rdg>
             <rdg wit="#P">qualis</rdg>
           </app>
           sit consideratio naturalis et usquequo se extendit consideratio eius
-          quam habet de formis nam naturalis philosophus quicquid considerat est
-          aliquo modo motui et transmutationi coniunctum quia ut dicitur
+          quam habet de formis. Nam naturalis philosophus quicquid considerat est
+          aliquo modo motui et transmutationi coniunctum, quia ut dicitur
           <app>
+            <lem>in</lem>
             <rdg wit="#P">in</rdg>
             <rdg wit="#M" type="variation-absent"/>
           </app>
-          secundo physicorum
-          <app>
-            <rdg wit="#M">quae</rdg>
-            <rdg wit="#P">quod</rdg>
-          </app>
-          non amplius mota movent non amplius sunt physicae considerationis
+          <cit>
+            <ref>
+              secundo <title ref="#Arist.Ph">Physicorum</title>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Ph">Phys.</title> II.7 198a26–30.
+            </bibl>
+            ,
+            <quote type="paraphrase">
+            <app>
+              <!-- M -->
+              <lem>quae</lem>
+              <rdg wit="#M">quae</rdg>
+              <rdg wit="#P">quod</rdg>
+            </app>
+            non amplius mota movent non amplius sunt physicae considerationis,
+            </quote>
+          </cit>
           formae ergo omnino immateriales non coniunctae materiae subiectae
           transmutationi et motui secundum substantiam non sunt de consideratione
-          physici Itaque tamdiu
+          physici. Itaque tamdiu
           <app>
+            <lem>se extendit</lem>
             <rdg wit="#M">se extendit</rdg>
             <rdg wit="#P">extendet se</rdg>
           </app>
           consideratio physica erga
           <app>
             <!-- in scribendo correction, superficial? -->
+            <lem>formas</lem>
             <rdg wit="#M">formas</rdg>
             <rdg wit="#P" type="correction-substitution">
               <subst>
@@ -300,60 +362,82 @@
             </rdg>
           </app>
           donec perveniat ad formam illam quae aliquo modo est immaterialis et
-          aliquo modo est perfectio materiae ibi autem erit status et
+          aliquo modo est perfectio materiae, ibi autem erit status et
           <app>
+            <lem>perfectus</lem>
             <rdg wit="#M">perfectus</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
-          terminus considerationis physicae
-        </p>
-        <p xml:id="da-199-prol-ogo5k9">
-          Quicquid autem est ultra formam illam considerare secundum substantiam
-          non ulterius pertinet ad naturalem
+          terminus considerationis physicae. Quicquid autem est ultra formam
+          illam considerare secundum substantiam non ulterius pertinet ad
+          naturalem
           <app>
+            <lem>philosophum</lem>
             <rdg wit="#M">philosophum</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
+          .
           <app>
-            <rdg wit="#P">huiusmodi</rdg>
-          </app>
-          <app>
-            <rdg wit="#M">forma autem</rdg>
-            <rdg wit="#P">autem forma</rdg>
+            <lem>Forma autem</lem>
+            <rdg wit="#M">Forma autem</rdg>
+            <rdg wit="#P">huiusmodi autem forma</rdg>
           </app>
           ultima secundum considerationem
           <app>
-            <rdg wit="#M">philosophi</rdg>
+            <!-- physicam -->
+            <lem>philosophi</lem>
             <rdg wit="#P">physicam</rdg>
+            <rdg wit="#M">philosophi</rdg>
           </app>
-          ultra quam non se extendit philosophus naturalis ut ait commentator
-          secundo physicorum est anima humana Possumus
+          , ultra quam non se extendit philosophus naturalis, ut ait
+          <cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name>
+              secundo
+              <title ref="#Averroes.Phys">Physicorum</title>
+            </ref>
+            <bibl>
+              <name ref="#Averroes">Aver.</name>
+              <title ref="#Averroes.Phys">Phys.</title> II ???
+            </bibl>
+          </cit>
+          , est anima humana.
+        </p>
+        <p xml:id="da-199-prol-ogo5k9">
+          Possumus
           <app>
+            <!-- M -->
+            <lem>igitur</lem>
             <rdg wit="#M">igitur</rdg>
             <rdg wit="#P">autem</rdg>
           </app>
           <app>
+            <lem>sic distinguere</lem>
             <rdg wit="#M">sic distinguere</rdg>
             <rdg wit="#P">distinguere sic</rdg>
           </app>
-          de formis dicendo quasdam esse omnino materiales
+          de formis dicendo quasdam esse omnino materiales,
           cuiusmodi sunt formae eductae de potentiae
           <cb ed="#M" n="b"/>
           materiae tam secundum substantiam quam
           <app>
+            <lem>secundum</lem>
             <rdg wit="#M">secundum</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
-          dispositionem Quaedam vero sunt quasi penitus immateriales ut
+          dispositionem; quaedam vero sunt quasi penitus immateriales, ut
           intelligentiae quae secundum philosophum
           <app>
             <lem n="philosophum"/>
             <rdg wit="#P" type="correction-deletion"><del rend="expunctionation">philosophum</del></rdg>
           </app>
-          octavo metaphysicae sunt entes praeter omnem materiam sensibilem et
-          intelligibilem Quaedam autem sunt formae mediae ut animae humanae quae
-          sunt perfectiones corporum habent enim
+          octavo <title ref="#Arist.Metaph">metaphysicae</title> sunt entes
+          praeter omnem materiam sensibilem et intelligibilem; quaedam autem
+          sunt formae mediae, ut animae humanae quae sunt perfectiones corporum.
+          Habent enim
           <app>
+            <!-- P corrected to be like M -->
+            <lem>se huiusmodi</lem>
             <rdg wit="#M">se huiusmodi</rdg>
             <rdg wit="#P" type="correction-transposition">
               <subst>
@@ -362,41 +446,49 @@
               </subst>
             </rdg>
           </app>
-          animae quasi modo medio quia licet secundum substantiam non educantur
-          de potentia materiae tamen secundum dispositionem de materia sunt
-          eductae Incipit <!-- Extensive note in margin of M. Looks like added
+          animae quasi modo medio quia, licet secundum substantiam non educantur
+          de potentia materiae, tamen secundum dispositionem de materia sunt
+          eductae. Incipit <!-- Extensive note in margin of M. Looks like added
           text --> itaque consideratio philosophi naturalis a formis penitus
           materialibus et terminatur usque ad animam humanam quae est quodammodo
           materialis
           <app>
+            <!-- M -->
+            <lem>et quodammodo immaterialis</lem>
             <rdg wit="#M">et quodammodo immaterialis</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
-          sed cum perventum est ad talem animam sistit
+          , sed cum perventum est ad talem animam, sistit
           <app>
             <!-- P better -->
-            <rdg wit="#M">philosophus</rdg>
+            <lem>physicus</lem>
             <rdg wit="#P">physicus</rdg>
+            <rdg wit="#M">philosophus</rdg>
           </app>
           nec
           <app>
+            <lem>se extendit</lem>
             <rdg wit="#M">se extendit</rdg>
             <rdg wit="#P" type="variation-inversion">extendit se</rdg>
           </app>
-          ad ulteriores <pb ed="#P" n="1-v"/> formas quia de formis abstractis cuiusmodi sunt
-          intelligentiae eo quod non motae moveant non ulterius considerat
-          philosophus naturalis
+          ad ulteriores <pb ed="#P" n="1-v"/> formas, quia de formis abstractis,
+          cuiusmodi sunt intelligentiae, eo quod non motae moveant non ulterius
+          considerat philosophus naturalis.
         </p>
         <p xml:id="da-199-prol-h639m4">
-          Hoc viso patere potest quem ordinem habeat hoc liber qui
-          dicitur de anima quem habemus prae manibus inter alios
+          Hoc viso patere potest quem ordinem habeat hoc liber qui dicitur
+          <title ref="#Arist.DA">De anima</title>, quem habemus prae manibus,
+          inter alios
           <app>
+            <lem>libros naturales</lem>
             <rdg wit="#M">libros naturales</rdg>
             <rdg wit="#P">naturales libros</rdg>
           </app>
-          nam modus physicus et metaphysicus quodammodo videtur oppositus eo
+          . Nam modus physicus et metaphysicus quodammodo videtur oppositus eo
           quod
           <app>
+            <!-- P corrected to be like M -->
+            <lem>modus</lem>
             <rdg wit="#M">modus</rdg>
             <rdg wit="#P" type="correction-substitution">
               <subst>
@@ -405,17 +497,20 @@
               </subst>
             </rdg>
           </app>
-          physicus et naturalis quasi habet statum in supremo et non
-          in infimo habet enim statum secundum abstractionem qui est supremus
-          et non secundum concretionem qui est infimus nulla enim est
-          consideratio adeo concreta et adeo coniuncta materiae et
-          transmutationi et motui quae propter hoc
+          physicus et naturalis quasi habet statum in supremo et non in infimo.
+          Habet enim statum secundum abstractionem, qui est supremus, et non
+          secundum concretionem, qui est infimus. Nulla enim est consideratio
+          adeo concreta et adeo coniuncta materiae et transmutationi et motui
+          quae propter hoc
           <app>
+            <lem>et</lem>
             <rdg wit="#M">et</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
           secundum
           <app>
+            <!-- P corrected to be like M -->
+            <lem>quod huiusmodi</lem>
             <rdg wit="#M">quod huiusmodi</rdg>
             <rdg wit="#P" type="correction-transposition">
               <subst>
@@ -426,18 +521,22 @@
           </app>
           subterfugiat modum
           <app>
+            <lem>physici</lem>
             <rdg wit="#M">physici</rdg>
             <rdg wit="#P">physicum</rdg>
           </app>
-          est tamen aliqua consideratio adeo abstracta et adeo suprema quae non
-          spectat ad naturalem et ad quam physicus
+          . Est tamen aliqua consideratio adeo abstracta et adeo suprema quae
+          non spectat ad naturalem et ad quam physicus
           <app>
+            <lem>non se</lem>
             <rdg wit="#M">non se</rdg>
             <rdg wit="#P">se non</rdg>
           </app>
-          potest extendere scientia vero metaphysica et divina modo converso
+          potest extendere. Scientia vero metaphysica et divina modo converso
           <app>
-            <rdg wit="#M">se habet nam</rdg>
+            <!-- M -->
+            <lem>se habet, nam</lem>
+            <rdg wit="#M">se habet, nam</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
           non habet
@@ -447,137 +546,169 @@
           </app>
           terminum in abstracto et in supremo
           <app>
+            <lem>sic</lem>
             <rdg wit="#M">sic</rdg>
             <rdg wit="#P">ut</rdg>
           </app>
           quod sit aliqua consideratio adeo abstracta et excellens
           <app>
+            <lem>quae</lem>
             <rdg wit="#M">quae</rdg>
             <rdg wit="#P">quod</rdg>
           </app>
-          transcendat considerationem metaphysicam et divinam quia quanto
-          consideratio est altior tanto magis est metaphysicalis eo quod
-          metaphysica considerat causas altissimas ut dicitur
-          <app>
-            <rdg wit="#M">secundo</rdg>
-            <rdg wit="#P">in primo</rdg>
-          </app>
-          metaphysicae habet tamen modus metaphysicus statum in infimo quia est
+          transcendat considerationem metaphysicam et divinam, quia quanto
+          consideratio est altior, tanto magis est metaphysicalis eo quod
+          metaphysica considerat causas altissimas, ut dicitur
+          <cit>
+            <ref>
+              <app>
+                <lem>in primo</lem> <!-- IV.1 1003a32? "immo in quarto" -->
+                <rdg wit="#M">secundo</rdg>
+                <rdg wit="#P">in primo</rdg>
+              </app>
+              <title ref="#Arist.Metaph">Metaphysicae</title>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Metaph">Metaph.</title> IV.1 1003a26--28
+            </bibl>
+          </cit>
+          . Habet tamen modus metaphysicus statum in infimo, quia est
           aliqua consideratio adeo
           <app>
+            <lem>concreta et contracta</lem>
             <rdg wit="#M">concreta et contracta</rdg>
             <rdg wit="#P">contracta et concreta</rdg>
           </app>
           quae non pertinet ad
           <app>
+            <!-- M -->
+            <lem>metaphysicum</lem>
             <rdg wit="#M">metaphysicum</rdg>
             <rdg wit="#P">metaphysicam</rdg>
           </app>
-          quid est artifex commmunis licet
+          , quid est artifex commmunis, licet
           <app>
-            <rdg wit="#P">tamen</rdg>
+            <lem n="licet"/>
             <rdg wit="#M" type="variation-absent"/>
+            <rdg wit="#P">tamen</rdg>
           </app>
-          pertinere possit ad physicum qui est artifex specialis.
-        </p>
-        <p xml:id="da-199-prol-3tczsn">
-          Advertendum
-          tamen quod cum dicimus metaphysicum non habere statum in supremo quia
-          non potest esse consideratio ita alta quae non spectet ad ipsum
+          pertinere possit ad physicum qui est artifex specialis. Advertendum
+          tamen quod cum dicimus metaphysicum non habere statum in supremo, quia
+          non potest esse consideratio ita alta quae non spectet ad ipsum,
           <app>
+            <lem>intelligendo</lem>
             <rdg wit="#M">intelligendo</rdg>
             <rdg wit="#P">intelligendum est</rdg>
           </app>
           de consideratione habita per humanam
           <app>
+            <lem>inventionem</lem>
             <rdg wit="#M">inventionem</rdg>
             <rdg wit="#P">intentionem</rdg>
           </app>
-          .
-        </p>
-        <p xml:id="da-199-prol-pg4c1r">
-          Utrum autem sit
-          aliqua consideratio inspirata trancendens considerationem metaphysicam
-          non est praesentis speculationis sic etiam cum dicimus physicum non habere
-          statum in infimo sic quod sit aliqua consideratio adeo concreta quae
-          secundum quod huiusmodi subterfugiat considerationem physicam intelligendum
-          est hoc supposita abstractione quam requirit quaelibet scientia nam si
-          sic concretam et materialem considerationem habere vellemus ut ad ipsa
-          individua et singularia extenderemus eam patet quod de talibus non considerat
+          . Utrum autem sit aliqua consideratio inspirata trancendens
+          considerationem metaphysicam non est praesentis speculationis. Sic
+          etiam, cum dicimus physicum non habere statum in infimo sic quod sit
+          aliqua consideratio adeo concreta quae secundum quod huiusmodi
+          subterfugiat considerationem physicam, intelligendum est hoc supposita
+          abstractione quam requirit quaelibet scientia. Nam si sic concretam et
+          materialem considerationem habere vellemus ut ad ipsa individua et
+          singularia extenderemus eam patet, quod de talibus non considerat
           physicus eo quod nulla scientia
           <app>
+            <lem>circa individua et numero singularia est</lem>
             <rdg wit="#M">circa individua et numero singularia est</rdg>
             <rdg wit="#P">est circa individua et numero singularia</rdg>
           </app>
-          quia talium ut dicitur septimo metaphysicae non est scientia nec
-          diffinitio igitur hoc modo sunt intelligenda quae diximus
+          , quia talium, ut dicitur
+          <cit>
+            <ref>septimo <title ref="#Arist.Metaph">Metaphysicae</title></ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Metaph">Metaph.</title> ???
+            </bibl>
+          </cit>, non est scientia nec diffinitio.
+        </p>
+        <p xml:id="da-199-prol-pg4c1r">
+          Igitur hoc modo sunt intelligenda quae diximus
           <app>
+            <lem>quod</lem>
             <rdg wit="#M">quod</rdg>
             <rdg wit="#P">quia</rdg>
           </app>
-          cum tres sint modi essentiales philosophiae physicus
+          cum tres sint modi essentiales philosophiae (physicus,
           <app>
+            <lem>scilicet</lem>
             <rdg wit="#M">scilicet</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
-          metaphysicus et divinus
+          , metaphysicus et divinus), divinus
           <app>
-            <rdg wit="#M">divinus</rdg>
-            <rdg wit="#P">divinus</rdg>
-          </app>
-          <app>
-            <rdg wit="#P">modus et metaphysicus</rdg>
+            <lem>et metaphysicus modus</lem>
             <rdg wit="#M">et metaphysicus modus</rdg>
+            <rdg wit="#P">modus et metaphysicus</rdg>
           </app>
-          inter scientias humanitus inventas non recognoscit superiorem
-          artificem nec habet statum in supremo ita quod terminetur
+          inter scientias humanitus inventas non recognoscit
+          superiorem artificem nec habet statum in supremo ita quod terminetur
           <app>
+            <lem>consideratio eius</lem>
             <rdg wit="#M">consideratio eius</rdg>
             <rdg wit="#P">eius consideratio</rdg>
           </app>
-          ad considerationem artificis superioris physicus vero quantum ad modum
+          ad considerationem artificis superioris. Physicus vero quantum ad modum
           abstractionis inter partes essentiales philosophiae non recognoscit
           artificem inferiorem ut quod terminetur eius consideratio ad aliquam
           <app>
+            <lem>essentialem partem</lem>
             <rdg wit="#M">essentialem partem</rdg>
             <rdg wit="#P">partem essentialem</rdg>
           </app>
-          phiosophiae quae sit magis concreta et minoris
-          abstrationis incipit itaque modus physicus ut patet per iam dictam a
-          formis infimis et omnino materialibus et terminatur usque ad animam
-          humanam quare si physicus habet statum in supremo anima humana ad quam
-          terminatur consideratio physica est dignissima et suprema inter ea
-          quae considerat physicus naturalis hoc ergo considerans philosophus
-          volens commendare hunc librum in quo determinatur
+          phiosophiae quae sit magis concreta et minoris abstrationis. Incipit
+          itaque modus physicus, ut patet per iam dictam, a formis infimis et
+          omnino materialibus et terminatur usque ad animam humanam, quare si
+          physicus habet statum in supremo, anima humana ad quam terminatur
+          consideratio physica est dignissima et suprema inter ea quae
+          considerat physicus naturalis. Hoc ergo considerans Philosophus volens
+          commendare hunc librum in quo determinatur
           <app>
+            <!-- P corrected to be like M -->
+            <lem>de</lem>
             <rdg wit="#M">de</rdg>
             <rdg wit="#P" type="correction-addition"><add place="above-line">de</add></rdg>
           </app>
-          omni anima et principaliter de anima humana ait in primis ponendam
-          esse notitiam de anima quod intelligendum est quantum ad ordinem
-          dignitatis ordine
+          omni anima, et principaliter de anima humana, ait in primis ponendam
+          esse notitiam de anima, quod intelligendum est quantum ad ordinem
+          dignitatis. Ordine
           <app>
+            <!-- enim better -->
+            <lem>enim</lem>
             <rdg wit="#M">enim</rdg>
             <rdg wit="#P">ergo</rdg>
           </app>
-          doctrinae liber de anima non est primus inter libros naturales sed
-          tenet gradum sextum et dicitur sextus
+          doctrinae liber <title ref="#Arist.DA">De anima</title> non est primus
+          inter libros naturales, sed tenet gradum sextum
           <app>
+            <lem>et dicitur sextus</lem>
             <rdg wit="#P">et dicitur sextus</rdg>
             <rdg wit="#M" type="variation-absent"/>
           </app>
-          de naturalibus ut probavimus in nostris editionibus quas fecimus super
-          physicis ordine tamen dignitatis hic est primus
+          de naturalibus, ut probavimus in nostris editionibus quas fecimus super
+          physicis, ordine tamen dignitatis hic est primus,
           <app>
-            <rdg wit="#P">hoc</rdg>
+            <!-- M -->
+            <lem n="primus"/>
             <rdg wit="#M" type="variation-absent"/>
+            <rdg wit="#P" type="variation-present"><del rend="expunctuation">a</del> hoc</rdg>
           </app>
           ut est per habita manifestum his itaque
           <app>
+            <lem>visis</lem>
             <rdg wit="#M">visis</rdg>
             <rdg wit="#P">pertractatis</rdg>
           </app>
           <app>
+            <lem>breviter</lem>
             <rdg wit="#M">breviter</rdg>
             <rdg wit="#P" type="variation-absent"/>
           </app>
