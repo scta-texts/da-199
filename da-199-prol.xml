@@ -397,8 +397,9 @@
               <title ref="#Averroes.Phys">Physicorum</title>
             </ref>
             <bibl>
-              <name ref="#Averroes">Aver.</name>
-              <title ref="#Averroes.Phys">Phys.</title> II ???
+              Locus non inventus, sed fortasse ad <name
+              ref="#Averroes">Aver.</name> <title ref="#Averroes.Phys">In
+              Phys.</title> II comm. 72--73 (Junct. ff. 74A--F) adspicit. (???)
             </bibl>
           </cit>
           , est anima humana.
@@ -570,7 +571,7 @@
             </ref>
             <bibl>
               <name ref="#Aristotle">Arist.</name> <title
-              ref="#Arist.Metaph">Metaph.</title> IV.1 1003a26--28
+              ref="#Arist.Metaph">Metaph.</title> IV.1 1003a26--28.
             </bibl>
           </cit>
           . Habet tamen modus metaphysicus statum in infimo, quia est
@@ -626,7 +627,7 @@
             <ref>septimo <title ref="#Arist.Metaph">Metaphysicae</title></ref>
             <bibl>
               <name ref="#Aristotle">Arist.</name> <title
-              ref="#Arist.Metaph">Metaph.</title> ???
+              ref="#Arist.Metaph">Metaph.</title> VII.10 1036a2--6.
             </bibl>
           </cit>, non est scientia nec diffinitio.
         </p>
@@ -664,7 +665,7 @@
             <rdg wit="#M">essentialem partem</rdg>
             <rdg wit="#P">partem essentialem</rdg>
           </app>
-          phiosophiae quae sit magis concreta et minoris abstrationis. Incipit
+          philosophiae quae sit magis concreta et minoris abstrationis. Incipit
           itaque modus physicus, ut patet per iam dictam, a formis infimis et
           omnino materialibus et terminatur usque ad animam humanam, quare si
           physicus habet statum in supremo, anima humana ad quam terminatur
