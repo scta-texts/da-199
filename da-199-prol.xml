@@ -426,15 +426,27 @@
             <rdg wit="#P" type="variation-absent"/>
           </app>
           dispositionem; quaedam vero sunt quasi penitus immateriales, ut
-          intelligentiae quae secundum philosophum
+          intelligentiae quae secundum <name ref="#Aristotle">Philosophum</name>
           <app>
             <lem n="philosophum"/>
             <rdg wit="#P" type="correction-deletion"><del rend="expunctionation">philosophum</del></rdg>
           </app>
-          octavo <title ref="#Arist.Metaph">metaphysicae</title> sunt entes
-          praeter omnem materiam sensibilem et intelligibilem; quaedam autem
-          sunt formae mediae, ut animae humanae quae sunt perfectiones corporum.
-          Habent enim
+          <cit>
+            <ref>
+              octavo <title ref="#Arist.Metaph">Metaphysicae</title>
+            </ref>
+            <quote type="paraphrase">sunt entes
+            praeter omnem materiam sensibilem et intelligibilem;
+            </quote>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Metaph">Metaph.</title> VIII.5 1044b27--29(?).
+            </bibl>
+            <note>Cf. <name ref="#Aristotle">Arist.</name> <title
+            ref="#Arist.Metaph">Metaph.</title> VI.1 1026a10--18.</note>
+          </cit>
+          quaedam autem sunt formae mediae, ut animae humanae quae sunt
+          perfectiones corporum. Habent enim
           <app>
             <!-- P corrected to be like M -->
             <lem>se huiusmodi</lem>
