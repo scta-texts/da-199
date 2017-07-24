@@ -147,7 +147,7 @@
             <rdg wit="#P">postulationem</rdg>
             <rdg wit="#M">postulationi</rdg>
           </app>
-          praeveniens oblatum esse dignoscitur potius quam petitum.
+          praeveniens oblatum esse dinoscitur potius quam petitum.
         </p>
         <p xml:id="da-199-prol-85745i">
           Philosophus in
@@ -266,9 +266,9 @@
             <rdg wit="#M">hanc</rdg>
             <rdg wit="#P">hoc</rdg>
           </app>
-          transcendens, subterfugere potest considerationem medici sic,
-          quia faber considerat de aere ut ex eo possit artificialia construere.
-          Consideratio
+          transcendens, subterfugere potest considerationem medici. Sic,
+          quia faber considerat de aere ut ex eo possit artificialia construere,
+          consideratio
           <app>
             <!-- P corrected to read M -->
             <lem>aeris</lem>
@@ -306,7 +306,7 @@
               </subst>
             </rdg>
           </app>
-          , sed si sit aliquam consideratio aeris hanc considerationem
+          . Sed si sit aliquam consideratio aeris hanc considerationem
           transcendens, subterfugit considerationem eius. Ex hoc ergo patere
           potest
           <app>
@@ -385,9 +385,8 @@
           ultima secundum considerationem
           <app>
             <!-- physicam -->
-            <lem>philosophi</lem>
+            <lem wit="#M">philosophi</lem>
             <rdg wit="#P">physicam</rdg>
-            <rdg wit="#M">philosophi</rdg>
           </app>
           , ultra quam non se extendit philosophus naturalis, ut ait
           <cit>
@@ -399,7 +398,7 @@
             <bibl>
               Locus non inventus, sed fortasse ad <name
               ref="#Averroes">Aver.</name> <title ref="#Averroes.Phys">In
-              Phys.</title> II comm. 72--73 (Junct. ff. 74A--F) adspicit. (???)
+              Phys.</title> II comm. 72--73 (Junct. ff. 74A--F) adspicit.
             </bibl>
           </cit>
           , est anima humana.
@@ -615,7 +614,7 @@
           subterfugiat considerationem physicam, intelligendum est hoc supposita
           abstractione quam requirit quaelibet scientia. Nam si sic concretam et
           materialem considerationem habere vellemus ut ad ipsa individua et
-          singularia extenderemus eam patet, quod de talibus non considerat
+          singularia extenderemus eam, patet quod de talibus non considerat
           physicus eo quod nulla scientia
           <app>
             <lem>circa individua et numero singularia est</lem>
@@ -702,7 +701,7 @@
             <rdg wit="#M" type="variation-absent"/>
             <rdg wit="#P" type="variation-present"><del rend="expunctuation">a</del> hoc</rdg>
           </app>
-          ut est per habita manifestum his itaque
+          ut est per habita manifestum. His itaque
           <app>
             <lem>visis</lem>
             <rdg wit="#M">visis</rdg>
