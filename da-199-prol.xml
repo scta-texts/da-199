@@ -417,7 +417,7 @@
             <rdg wit="#P">distinguere sic</rdg>
           </app>
           de formis dicendo quasdam esse omnino materiales,
-          cuiusmodi sunt formae eductae de potentiae
+          cuiusmodi sunt formae eductae de potentia
           <cb ed="#M" n="b"/>
           materiae tam secundum substantiam quam
           <app>
@@ -599,7 +599,7 @@
             <rdg wit="#M">metaphysicum</rdg>
             <rdg wit="#P">metaphysicam</rdg>
           </app>
-          , quid est artifex commmunis, licet
+          , qui est artifex commmunis, licet
           <app>
             <lem n="licet"/>
             <rdg wit="#M" type="variation-absent"/>
@@ -668,21 +668,35 @@
             <rdg wit="#M">consideratio eius</rdg>
             <rdg wit="#P">eius consideratio</rdg>
           </app>
-          ad considerationem artificis superioris. Physicus vero quantum ad modum
-          abstractionis inter partes essentiales philosophiae non recognoscit
-          artificem inferiorem ut quod terminetur eius consideratio ad aliquam
+          ad considerationem artificis superioris. Physicus vero quantum ad
+          modum abstractionis inter partes essentiales philosophiae non
+          recognoscit artificem inferiorem
+          <app>
+            <lem type="conjecture-corrected" source="HH">ita</lem>
+            <rdg wit="#M #P">ut</rdg>
+          </app>
+          quod terminetur eius consideratio ad aliquam
           <app>
             <lem>essentialem partem</lem>
             <rdg wit="#M">essentialem partem</rdg>
             <rdg wit="#P">partem essentialem</rdg>
           </app>
           philosophiae quae sit magis concreta et minoris abstrationis. Incipit
-          itaque modus physicus, ut patet per iam dictam, a formis infimis et
-          omnino materialibus et terminatur usque ad animam humanam, quare si
-          physicus habet statum in supremo, anima humana ad quam terminatur
-          consideratio physica est dignissima et suprema inter ea quae
-          considerat physicus naturalis. Hoc ergo considerans Philosophus volens
-          commendare hunc librum in quo determinatur
+          itaque modus physicus, ut patet per iam
+          <app>
+            <lem type="conjecture-corrected" source="HH">dicta</lem>
+            <rdg wit="#M #P">dictam</rdg>
+          </app>
+          , a formis infimis et omnino materialibus et terminatur usque ad
+          animam humanam, quare si physicus habet statum in supremo, anima
+          humana ad quam terminatur consideratio physica est dignissima et
+          suprema inter ea quae considerat physicus
+          <app>
+            <lem type="conjecture-supplied" source="HH"><supplied>vel</supplied></lem>
+          </app>
+          naturalis. Hoc ergo
+          considerans Philosophus volens commendare hunc librum in quo
+          determinatur
           <app>
             <!-- P corrected to be like M -->
             <lem>de</lem>
