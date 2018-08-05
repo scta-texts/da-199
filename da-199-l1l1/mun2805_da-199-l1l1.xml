@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Expositio librorum I-III De anima</title>
+        <author>Aegidius Romanus</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="2017.03">
+          <title><!-- title [{ms-identifier} Transcription] --></title>
+          <date when="2017-03-20">March 20, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives
+            on the Aristotelian Tradition
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+        <date when="2017-03-20">March 20, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="mun">München, Bayerische Staatsbibliothek, 2 Inc. c.a. 2805</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef
+          n="lbp-diplomatic-1.0.0"
+          url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/diplomatic.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition</p>
+        <p>The transcription has been normalized to classical orthography.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-03-20" who="#" status="draft" n="2017.03">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la" type="critical">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="3-v"/><cb ed="#M" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-199-l1l1">
+        <p xml:id="da-199-l1l1-1xsdxd">
+          <lb ed="#M"/>
+          <note place="margin-left">
+            <lb ed="#M"/>
+            Commen<lb ed="#M"/>ti primi
+          </note>
+          <quote>
+            Bonorum honorabilium notitiam opinan
+            <lb ed="#M"/> tes<pc type="punctus"/> Magis autem alteram altera<pc type="punctus-elevatus"/> aut
+            <lb ed="#M"/> secundum certitudinem<pc type="punctus-elevatus"/> aut ex eo quod meliorum quidem et mirabiliorum est<pc type="punctus-elevatus"/> propter
+            <lb ed="#M"/> utraque haec animae historiam rationabiliter
+            <lb ed="#M"/> utique in primis ponemus.
+          </quote>
+          <lb ed="#M"/> Iste liber sicut alii libri philosophi dividitur in duas partes scilicet in
+          prooe<lb ed="#M"/>mialem et executivam pars executiva incipit ibi <quote>Principium autem
+          <lb ed="#M"/>quaestionis et cetera<pc type="punctus"/></quote> In parte autem prooemii ut commentator innuit intendit
+          <lb ed="#M"/> philsophus inducere homines ad amorem huius scientiae
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
